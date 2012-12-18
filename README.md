@@ -34,6 +34,11 @@ Useful resources for web developers
 * [Less](http://lesscss.org/)
 * [Normalize](http://necolas.github.com/normalize.css/)
 
+### Responsive framework ###
+
+* [Foundation](http://foundation.zurb.com/)
+* [Adapt](http://adapt.960.gs/)
+
 ## Tools ##
 
 * [JsLint](http://www.jslint.com/) (code quality)

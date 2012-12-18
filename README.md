@@ -3,6 +3,14 @@
 
 Useful resources for web developers
 
+1. [Ref / Books / Articles](#ref--books--articles)
+2. [Libraries](#libraries)
+  * [JS](#js)
+  * [CSS](#css)
+  * [Templating](#templating)
+  * [Responsive framework](#responsive-framework)
+3. [Tools](#tools)
+
 ## Ref / Books / Articles ##
 
 * [Mozilla Doc center](https://developer.mozilla.org/en-US/docs), [Javascript Ref & Guide](https://developer.mozilla.org/en-US/docs/JavaScript), [security](https://developer.mozilla.org/en-US/docs/Security)

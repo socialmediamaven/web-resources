@@ -25,6 +25,7 @@ Useful resources for web developers
 ## Videos ##
 
 * [Angular best pratices](http://www.youtube.com/watch?v=ZhfUv0spHCY)
+* [To hell with jQuery](http://www.youtube.com/watch?v=3D1WeSCSkPQ)
 
 ## Libraries ##
 

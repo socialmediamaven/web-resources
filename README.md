@@ -58,3 +58,5 @@ Useful resources for web developers
 * [Uglify](https://github.com/mishoo/UglifyJS)
 * [NodeJS](http://nodejs.org/)
 * [Vertx](http://vertx.io/)
+* [JsFiddle](http://jsfiddle.net/)
+* [JsPerf](http://jsperf.com/)

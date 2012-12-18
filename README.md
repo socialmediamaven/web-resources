@@ -32,6 +32,7 @@ Useful resources for web developers
 * [JsLint](http://www.jslint.com/) (code quality)
 * [Closure compiler](http://closure-compiler.appspot.com/home)
 * [JSONLint](http://jsonlint.com/)
+* [Base64 Converter](http://webcodertools.com/imagetobase64converter)
  
 ## Templating ##
 

@@ -2,13 +2,14 @@
 
 Useful resources for web developers
 
-1. [Ref / Books / Articles](#ref--books--articles)
-2. [Libraries](#libraries)
+* [Ref / Books / Articles](#ref--books--articles)
+* [Videos](#videos)
+* [Libraries](#libraries)
   * [JS](#js)
   * [CSS](#css)
   * [Templating](#templating)
   * [Responsive framework](#responsive-framework)
-3. [Tools](#tools)
+* [Tools](#tools)
 
 ## Ref / Books / Articles ##
 
@@ -20,6 +21,10 @@ Useful resources for web developers
 * [SitePoint (How to develop a jQuery plugin)](http://www.sitepoint.com/how-to-develop-a-jquery-plugin/)
 * [Templating reviews](http://engineering.linkedin.com/frontend/client-side-templating-throwdown-mustache-handlebars-dustjs-and-more)
 * [Dottoro Web Reference](http://help.dottoro.com/)
+
+## Videos ##
+
+* [Angular best pratices](http://www.youtube.com/watch?v=ZhfUv0spHCY)
 
 ## Libraries ##
 

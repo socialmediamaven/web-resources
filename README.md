@@ -5,8 +5,8 @@ Useful resources for web developers
 
 === Ref / Books ===
 
-*Javascript Reference: https://developer.mozilla.org/en-US/docs/JavaScript
-*JS Patterns: http://shichuan.github.com/javascript-patterns/
+* Javascript Reference: https://developer.mozilla.org/en-US/docs/JavaScript
+* JS Patterns: http://shichuan.github.com/javascript-patterns/
 *Learning JavaScript Design Patterns: http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 *Developing Backbone.js Applications: https://github.com/addyosmani/backbone-fundamentals
 *Smashingmagazube (Journey through the javascript MVC jungle) : http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/

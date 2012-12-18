@@ -13,19 +13,25 @@ Useful resources for web developers
 
 ## Libraries ##
 
+### JS ###
+
 * [Angular](http://angularjs.org/)
 * [Backbone](http://backbonejs.org/)
 * [D3](http://d3js.org/)
 * [Handlebars](http://handlebarsjs.com/)
 * [JQuery](http://jquery.com/)
 * [Knockback ](http://kmalakoff.github.com/knockback/)
-* [Less](http://lesscss.org/)
 * [Meteor](http://meteor.com/main)
 * [Moment](http://momentjs.com/)
 * [Require](http://requirejs.org/)
 * [Three](http://mrdoob.github.com/three.js/)
 * [Underscore](http://underscorejs.org/)
 * [Zepto](http://zeptojs.com/)
+
+### CSS ###
+
+* [Less](http://lesscss.org/)
+* [Normalize](http://necolas.github.com/normalize.css/)
 
 ## Tools ##
 

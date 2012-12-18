@@ -55,3 +55,6 @@ Useful resources for web developers
 * [JSONLint](http://jsonlint.com/)
 * [Base64 Converter](http://webcodertools.com/imagetobase64converter)
 * [Can I Use](http://caniuse.com/)
+* [Uglify](https://github.com/mishoo/UglifyJS)
+* [NodeJS](http://nodejs.org/)
+* [Vertx](http://vertx.io/)

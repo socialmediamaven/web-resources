@@ -32,3 +32,9 @@ Useful resources for web developers
 * [JsLint](http://www.jslint.com/) (code quality)
 * [Closure compiler](http://closure-compiler.appspot.com/home)
 * [JSONLint](http://jsonlint.com/)
+ 
+## Templating ##
+
+* [{{mustache}}](http://mustache.github.com/)
+* [Handlebars](http://handlebarsjs.com/)
+* [Templating in Linkedin](http://engineering.linkedin.com/frontend/client-side-templating-throwdown-mustache-handlebars-dustjs-and-more)

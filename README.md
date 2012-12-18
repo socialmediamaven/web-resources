@@ -1,5 +1,4 @@
-# web-resources #
-
+# Web resources #
 
 Useful resources for web developers
 

@@ -12,6 +12,7 @@ Useful resources for web developers
 * [Smashingmagazube (Journey through the javascript MVC jungle)](http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/)
 * [SitePoint (How to develop a jQuery plugin)](http://www.sitepoint.com/how-to-develop-a-jquery-plugin/)
 * [Templating reviews](http://engineering.linkedin.com/frontend/client-side-templating-throwdown-mustache-handlebars-dustjs-and-more)
+* [Dottoro Web Reference](http://help.dottoro.com/)
 
 ## Libraries ##
 
@@ -52,3 +53,4 @@ Useful resources for web developers
 * [Closure compiler](http://closure-compiler.appspot.com/home)
 * [JSONLint](http://jsonlint.com/)
 * [Base64 Converter](http://webcodertools.com/imagetobase64converter)
+* [Can I Use](http://caniuse.com/)

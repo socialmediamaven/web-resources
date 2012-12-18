@@ -33,6 +33,7 @@ Useful resources for web developers
 
 * [Less](http://lesscss.org/)
 * [Normalize](http://necolas.github.com/normalize.css/)
+* [Sass](http://sass-lang.com/)
 
 ### Templating ###
 
@@ -43,6 +44,7 @@ Useful resources for web developers
 
 * [Foundation](http://foundation.zurb.com/)
 * [Adapt](http://adapt.960.gs/)
+* [HTML5 Boilerplate](http://html5boilerplate.com/)
 
 ## Tools ##
 

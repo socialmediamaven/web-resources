@@ -30,7 +30,7 @@ Useful resources for web developers
 * [Underscore](http://underscorejs.org/)
 * [Zepto](http://zeptojs.com/)
 
-## Templating ##
+### Templating ###
 
 * [{{mustache}}](http://mustache.github.com/)
 * [Handlebars](http://handlebarsjs.com/)

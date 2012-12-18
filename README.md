@@ -20,7 +20,6 @@ Useful resources for web developers
 * [Angular](http://angularjs.org/)
 * [Backbone](http://backbonejs.org/)
 * [D3](http://d3js.org/)
-* [Handlebars](http://handlebarsjs.com/)
 * [JQuery](http://jquery.com/)
 * [Knockback ](http://kmalakoff.github.com/knockback/)
 * [Meteor](http://meteor.com/main)
@@ -30,15 +29,15 @@ Useful resources for web developers
 * [Underscore](http://underscorejs.org/)
 * [Zepto](http://zeptojs.com/)
 
-### Templating ###
-
-* [{{mustache}}](http://mustache.github.com/)
-* [Handlebars](http://handlebarsjs.com/)
-
 ### CSS ###
 
 * [Less](http://lesscss.org/)
 * [Normalize](http://necolas.github.com/normalize.css/)
+
+### Templating ###
+
+* [{{mustache}}](http://mustache.github.com/)
+* [Handlebars](http://handlebarsjs.com/)
 
 ### Responsive framework ###
 

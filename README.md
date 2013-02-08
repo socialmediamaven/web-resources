@@ -21,6 +21,7 @@ Useful resources for web developers
 * [SitePoint (How to develop a jQuery plugin)](http://www.sitepoint.com/how-to-develop-a-jquery-plugin/)
 * [Templating reviews](http://engineering.linkedin.com/frontend/client-side-templating-throwdown-mustache-handlebars-dustjs-and-more)
 * [Dottoro Web Reference](http://help.dottoro.com/)
+* [BackboneJS tutorials](http://dailyjs.com/2012/11/29/backbone-tutorial-1/)
 
 ## Videos ##
 

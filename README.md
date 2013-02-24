@@ -22,6 +22,8 @@ Useful resources for web developers
 * [Templating reviews](http://engineering.linkedin.com/frontend/client-side-templating-throwdown-mustache-handlebars-dustjs-and-more)
 * [Dottoro Web Reference](http://help.dottoro.com/)
 * [BackboneJS tutorials](http://dailyjs.com/2012/11/29/backbone-tutorial-1/)
+* [Pragmatic JavaScript Style](http://markdaggett.com/blog/2013/02/15/pragmatic-javascript-style/)
+* [JavaScript Functions Explained](http://markdaggett.com/blog/2013/02/15/functions-explained/)
 
 ## Videos ##
 

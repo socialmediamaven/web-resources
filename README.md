@@ -25,6 +25,7 @@ Useful resources for web developers
 * [Pragmatic JavaScript Style](http://markdaggett.com/blog/2013/02/15/pragmatic-javascript-style/)
 * [JavaScript Functions Explained](http://markdaggett.com/blog/2013/02/15/functions-explained/)
 * [Guide to JavaScript Prototypes](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
+* [Asynchronous JS](http://sporto.github.com/blog/2012/12/09/callbacks-listeners-promises/)
 
 ## Videos ##
 
@@ -37,6 +38,7 @@ Useful resources for web developers
 
 * [Angular](http://angularjs.org/)
 * [Backbone](http://backbonejs.org/)
+* [CanJS](http://canjs.us/)
 * [D3](http://d3js.org/)
 * [JQuery](http://jquery.com/)
 * [Knockback ](http://kmalakoff.github.com/knockback/)

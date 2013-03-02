@@ -24,6 +24,7 @@ Useful resources for web developers
 * [BackboneJS tutorials](http://dailyjs.com/2012/11/29/backbone-tutorial-1/)
 * [Pragmatic JavaScript Style](http://markdaggett.com/blog/2013/02/15/pragmatic-javascript-style/)
 * [JavaScript Functions Explained](http://markdaggett.com/blog/2013/02/15/functions-explained/)
+* [Guide to JavaScript Prototypes](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
 
 ## Videos ##
 

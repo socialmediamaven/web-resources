@@ -26,6 +26,7 @@ Useful resources for web developers
 * [JavaScript Functions Explained](http://markdaggett.com/blog/2013/02/15/functions-explained/)
 * [Guide to JavaScript Prototypes](http://sporto.github.com/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
 * [Asynchronous JS](http://sporto.github.com/blog/2012/12/09/callbacks-listeners-promises/)
+* [DocHub](http://dochub.io)
 
 ## Videos ##
 

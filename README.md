@@ -46,6 +46,7 @@ Useful resources for web developers
 * [Meteor](http://meteor.com/main)
 * [Moment](http://momentjs.com/)
 * [Require](http://requirejs.org/)
+* [Testacular](https://github.com/testacular/testacular)
 * [Three](http://mrdoob.github.com/three.js/)
 * [Underscore](http://underscorejs.org/)
 * [Zepto](http://zeptojs.com/)

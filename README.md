@@ -9,6 +9,7 @@ Useful resources for web developers
   * [CSS](#css)
   * [Templating](#templating)
   * [Responsive framework](#responsive-framework)
+  * [Web interface kit and icons](#web-interface-kit-and-icons)
 * [Tools](#tools)
 
 ## Ref / Books / Articles ##
@@ -40,13 +41,15 @@ Useful resources for web developers
 * [Angular](http://angularjs.org/)
 * [Backbone](http://backbonejs.org/)
 * [CanJS](http://canjs.us/)
+* [Casper](http://casperjs.org/)
 * [D3](http://d3js.org/)
+* [Jasmine](http://pivotal.github.io/jasmine/)
 * [JQuery](http://jquery.com/)
+* [Karma](http://karma-runner.github.io/)
 * [Knockback ](http://kmalakoff.github.com/knockback/)
 * [Meteor](http://meteor.com/main)
 * [Moment](http://momentjs.com/)
 * [Require](http://requirejs.org/)
-* [Testacular](https://github.com/testacular/testacular)
 * [Three](http://mrdoob.github.com/three.js/)
 * [Underscore](http://underscorejs.org/)
 * [Zepto](http://zeptojs.com/)
@@ -69,9 +72,14 @@ Useful resources for web developers
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [Twitter bootstrap](http://twitter.github.com/bootstrap/)
 
+### Web interface kit and icons ###
+
+* [Flat-UI](http://designmodo.github.io/Flat-UI/)
+* [Batch](http://adamwhitcroft.com/batch/)
+
 ## Tools ##
 
-* [JsLint](http://www.jslint.com/) (code quality)
+* [JsLint](http://www.jslint.com/)
 * [Closure compiler](http://closure-compiler.appspot.com/home)
 * [JSONLint](http://jsonlint.com/)
 * [Base64 Converter](http://webcodertools.com/imagetobase64converter)
@@ -81,3 +89,7 @@ Useful resources for web developers
 * [Vertx](http://vertx.io/)
 * [JsFiddle](http://jsfiddle.net/)
 * [JsPerf](http://jsperf.com/)
+* [Grunt](http://gruntjs.com/)
+* [Bower](http://bower.io/)
+* [Yeoman](http://yeoman.io/)
+* [PhantomJS](http://phantomjs.org/)

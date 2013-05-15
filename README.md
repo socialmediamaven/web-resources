@@ -93,3 +93,4 @@ Useful resources for web developers
 * [Bower](http://bower.io/)
 * [Yeoman](http://yeoman.io/)
 * [PhantomJS](http://phantomjs.org/)
+* [Forever](https://github.com/nodejitsu/forever)

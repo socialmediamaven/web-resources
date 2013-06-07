@@ -71,6 +71,7 @@ Useful resources for web developers
 * [Adapt](http://adapt.960.gs/)
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [Twitter bootstrap](http://twitter.github.com/bootstrap/)
+* [Pure CSS](http://purecss.io/)
 
 ### Web interface kit and icons ###
 

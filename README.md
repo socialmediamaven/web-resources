@@ -72,6 +72,7 @@ Useful resources for web developers
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [Twitter bootstrap](http://twitter.github.com/bootstrap/)
 * [Pure CSS](http://purecss.io/)
+* [Ink](http://ink.sapo.pt/)
 
 ### Web interface kit and icons ###
 

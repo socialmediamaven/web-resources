@@ -102,3 +102,4 @@ Useful resources for web developers
 * [Yeoman](http://yeoman.io/)
 * [PhantomJS](http://phantomjs.org/)
 * [Forever](https://github.com/nodejitsu/forever)
+* [JsHint](http://www.jshint.com/)

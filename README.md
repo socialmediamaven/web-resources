@@ -70,7 +70,8 @@ Useful resources for web developers
 * [Foundation](http://foundation.zurb.com/)
 * [Adapt](http://adapt.960.gs/)
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
-* [Twitter bootstrap](http://twitter.github.com/bootstrap/)
+* [Twitter bootstrap 2.x](http://twitter.github.com/bootstrap/)
+* [Twitter bootstrap 3.x](http://getbootstrap.com/)* 
 * [Pure CSS](http://purecss.io/)
 * [Ink](http://ink.sapo.pt/)
 

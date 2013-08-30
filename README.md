@@ -50,6 +50,7 @@ Useful resources for web developers
 * [Knockback ](http://kmalakoff.github.com/knockback/)
 * [Knockout](http://knockoutjs.com/)
 * [Lodash](http://lodash.com/)
+* [Loglevel](http://pimterry.github.io/loglevel/)
 * [Marionette](http://marionettejs.com/)
 * [Meteor](http://meteor.com/main)
 * [Moment](http://momentjs.com/)
